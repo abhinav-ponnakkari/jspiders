@@ -1,0 +1,10 @@
+public class Firstprogram
+{
+  public static void main(String[] args)
+    {
+      int a=10,b=5;
+      System.out.println(a+b);
+      String str="Abhinav";
+      System.out.println(str.charAt(2));
+     }
+}
